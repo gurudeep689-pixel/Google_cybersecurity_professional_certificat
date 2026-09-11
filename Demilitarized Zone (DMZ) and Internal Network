@@ -1,0 +1,2 @@
+DMZ: Situated between two firewalls, the DMZ hosts public-facing services like web servers, proxy servers, and DNS servers that interact with the internet.
+Internal Network: This zone contains private servers and data that require protection, with a Restricted Zone inside for highly confidential information accessible only to privileged employees.
