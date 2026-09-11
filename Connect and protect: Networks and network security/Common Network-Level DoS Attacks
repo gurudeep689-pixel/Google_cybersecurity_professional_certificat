@@ -1,0 +1,2 @@
+SYN Flood Attack: This attack exploits the TCP connection handshake process. Attackers send a large number of SYN (synchronize) requests to a server, but never complete the handshake, leaving ports open and eventually overwhelming the server.
+ICMP Flood Attack: In this attack, an attacker repeatedly sends ICMP (Internet Control Message Protocol) packets to a network server. This forces the server to send ICMP responses, consuming all available bandwidth and causing the server to crash
