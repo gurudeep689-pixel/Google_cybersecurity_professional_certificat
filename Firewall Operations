@@ -1,0 +1,3 @@
+Stateless Firewalls: These firewalls operate based on predefined rules set by an administrator, accepting or rejecting traffic without tracking information from data packets, making them less secure.
+Stateful Firewalls: These firewalls monitor traffic, keep track of information, and proactively filter out suspicious threats by analyzing network traffic characteristics and behavior.
+Next-Generation Firewalls (NGFW): Providing advanced security beyond stateful firewalls, NGFWs include deep packet inspection and intrusion protection, often connecting to cloud-based threat intelligence for updated protection against cyber threats.
