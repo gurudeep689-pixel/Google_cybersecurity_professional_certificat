@@ -1,0 +1,12 @@
+Network Protocols: The Rules of Communication
+
+Network protocols are essential rules that ensure data is delivered correctly between devices on a network.
+They define the order of delivery and the structure of data, allowing different devices to communicate effectively.
+Key Protocols in Action
+
+TCP (Transmission Control Protocol) establishes a connection and verifies devices before data streaming, often referred to as a "handshake."
+ARP (Address Resolution Protocol) determines the MAC address of the next device in the data's path, ensuring it reaches the correct destination.
+Accessing a Website: A Protocol Journey
+
+HTTPS (Hypertext Transfer Protocol Secure) provides a secure method for your browser to request and receive webpages from a server, encrypting data for security.
+DNS (Domain Name System) translates human-readable domain names (like "yummyrecipesforme.org") into numerical IP addresses that computers use to locate websites.
