@@ -1,0 +1,9 @@
+Types of SIEM Tools
+
+Self-hosted SIEM tools are installed, operated, and maintained by an organization using its own infrastructure, ideal for maintaining physical control over confidential data.
+Cloud-hosted SIEM tools are managed by SIEM providers and accessed via the internet, suitable for organizations that prefer not to invest in their own infrastructure.
+Industry-Leading SIEM Tools
+
+Splunk Enterprise is a self-hosted data analysis platform that provides SIEM solutions for retaining, analyzing, and searching log data to deliver real-time security information and alerts.
+Splunk Cloud is a cloud-hosted tool for collecting, searching, and monitoring log data, particularly useful for organizations with hybrid or cloud-only environments.
+Google's Chronicle is a cloud-native tool designed for retaining, analyzing, and searching data, offering log monitoring, data analysis, and data collection while leveraging cloud computing capabilities.
