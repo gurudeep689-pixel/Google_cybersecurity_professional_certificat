@@ -1,0 +1,9 @@
+Understanding Log Data
+
+Logs are records of events within an organization's systems and networks, crucial for security analysis.
+Common log sources include firewall logs (recording internet traffic), network logs (tracking device connections), and server logs (detailing service-related events like logins).
+The Role of SIEM Tools 
+
+SIEM tools collect and analyze log data to monitor critical activities, providing real-time visibility and automated alerts.
+These tools centralize log data, increasing efficiency by minimizing the need for manual review and analysis by security professionals.
+  
