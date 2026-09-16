@@ -1,0 +1,5 @@
+A common point of confusion is the difference between an IDS and an IPS (Intrusion Prevention System):
+
+IDS (Passive): Copies traffic via a TAP or SPAN port, analyzes it, and generates an alert. It does not block or stop the traffic on its own.
+
+IPS (Active): Sits inline directly in the traffic flow. If it detects malicious activity, it actively drops the packets or resets the connection to stop the attack in real time.
