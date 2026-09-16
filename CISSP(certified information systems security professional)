@@ -1,0 +1,38 @@
+
+This domain focuses on establishing security goals, mitigating risks, ensuring compliance with regulations (like HIPAA), and maintaining business continuity.
+An example is a security analyst updating company policies due to changes in federal compliance regulations.
+
+2 Asset Security
+
+This domain is concerned with protecting both digital and physical assets, including data storage, maintenance, retention, and secure destruction.
+A task for a security analyst in this domain might involve ensuring the proper disposal and destruction of old equipment containing confidential information.
+
+3 Security Architecture and Engineering
+
+This domain aims to optimize data security through the implementation of effective tools, systems, and processes.
+Configuring firewalls to monitor and filter network traffic and prevent attacks is a key responsibility within this domain.
+
+4 Communication and Network Security
+
+This domain focuses on managing and securing physical networks and wireless communications.
+An analyst might analyze user behavior to identify and mitigate risks, such as employees connecting to unsecured wireless hotspots, by creating appropriate network policies.
+
+5 Identity and Access Management (IAM)
+
+IAM focuses on securing data by ensuring users adhere to established policies for controlling and managing both physical and logical assets.
+This includes validating employee identities and documenting access roles to maintain an organization's physical and digital security.
+
+6 Security Assessment and Testing
+
+This domain involves conducting security control testing, collecting and analyzing data, and performing security audits to monitor for risks, threats, and vulnerabilities.
+Security analysts may regularly audit user permissions to ensure appropriate access levels, such as limiting payroll information access to authorized personnel.
+
+7 Security Operations
+
+Security operations concentrate on conducting investigations and implementing preventative measures against security incidents.
+An example is responding to an alert about an unknown device on the internal network by following organizational policies to mitigate potential threats.
+
+8Software Development Security
+
+This domain emphasizes using secure coding practices, which are guidelines for creating secure applications and services.
+Security analysts might advise software development teams on incorporating security practices throughout the software development lifecycle, such as setting password policies for new mobile apps.
