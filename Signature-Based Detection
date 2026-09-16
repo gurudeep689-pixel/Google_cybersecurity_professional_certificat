@@ -1,0 +1,17 @@
+A. Signature-Based Detection (Known Threats)
+How it works: Compares network traffic against a database of known threat signatures (similar to antivirus software checking file hashes).
+
+Strength: Extremely fast, highly accurate, and produces low false positives for known attacks.
+
+Weakness: Completely blind to brand-new, unseen attacks (Zero-Day exploits).
+
+Example: Detecting a known SQL injection attempt containing ' OR '1'='1.
+
+B. Anomaly-Based Detection (Unknown/Behavioral Threats)
+How it works: Uses machine learning or baseline profiling to learn what "normal" network traffic looks like. If traffic strays significantly from that baseline, it flags an alert.
+
+Strength: Capable of detecting zero-day attacks and custom malware.
+
+Weakness: Higher rate of false positives (e.g., flagging a legitimate large file upload by a developer as an exfiltration attempt).
+
+Example: A database server suddenly sending 10 GB of data to an external IP at 2:00 AM on a Sunday.
