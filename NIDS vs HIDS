@@ -1,0 +1,7 @@
+network intrusion detection system 
+
+Placed at strategic points across the network (e.g., routers, switches, DMZ boundaries).
+
+host intrusion detection system
+
+installed directly on an individual device/endpoint (server, workstation).
