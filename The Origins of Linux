@@ -1,0 +1,12 @@
+The Origins of Linux
+
+Linux was developed through the separate efforts of Linus Torvalds, who created the Linux kernel to improve the UNIX operating system, and Richard Stallman, who started the GNU project with the goal of creating free and open-source software.
+Their combined innovations led to what is now known as Linux, an operating system based on UNIX.
+Unique Characteristics of Linux
+
+Linux is open-source, meaning its source code is freely accessible, allowing anyone to use, share, and modify it under the GNU Public License.
+This open-source philosophy has fostered a large community of developers who collaborate to advance computing and create various distributions, with over 600 available.
+Linux in Security Roles
+
+As a security analyst, you will frequently use Linux for tasks such as examining logs to identify system issues and verifying access and authorization in identity and access management systems.
+You may also work with specialized Linux distributions designed for specific security tasks, such as digital forensics or penetration testing to find system vulnerabilities.
